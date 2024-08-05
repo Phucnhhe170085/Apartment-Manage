@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\renterwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\renterwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\renterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\renterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\otpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\otpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\ownerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\ownerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|c:\\users\\creep\\downloads\\motelmanagement\\new folder\\motelmanagement\\motelmanagement\\ownerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995217C4-D6A9-436A-9E03-F729E8242000}|MotelManagement\\MotelManagement.csproj|solutionrelative:motelmanagement\\ownerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\RenterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MotelManagement\\RenterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\RenterWindow.xaml.cs",
+              "RelativeToolTip": "MotelManagement\\RenterWindow.xaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAlwGYAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:32:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\RenterWindow.xaml",
+              "RelativeDocumentMoniker": "MotelManagement\\RenterWindow.xaml",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\RenterWindow.xaml",
+              "RelativeToolTip": "MotelManagement\\RenterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:31:57.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MotelManagement\\SignUpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "MotelManagement\\SignUpWindow.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAIcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:29:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MotelManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\MainWindow.xaml",
+              "RelativeToolTip": "MotelManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:25:06.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OTPWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OTPWindow.xaml",
+              "RelativeDocumentMoniker": "MotelManagement\\OTPWindow.xaml",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OTPWindow.xaml",
+              "RelativeToolTip": "MotelManagement\\OTPWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:24:43.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OwnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MotelManagement\\OwnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OwnerWindow.xaml.cs",
+              "RelativeToolTip": "MotelManagement\\OwnerWindow.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAtwNsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:17:47.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\SignUpWindow.xaml",
+              "RelativeDocumentMoniker": "MotelManagement\\SignUpWindow.xaml",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\SignUpWindow.xaml",
+              "RelativeToolTip": "MotelManagement\\SignUpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:17:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OwnerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OwnerWindow.xaml",
+              "RelativeDocumentMoniker": "MotelManagement\\OwnerWindow.xaml",
+              "ToolTip": "C:\\Users\\Creep\\Downloads\\MotelManagement\\New folder\\MotelManagement\\MotelManagement\\OwnerWindow.xaml",
+              "RelativeToolTip": "MotelManagement\\OwnerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:16:50.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
